@@ -198,21 +198,6 @@ body {
 .collections > div > ul {
   list-style-type: none;
 }
-/*Alumni Form Page*/
-#ss-form > div {
-  line-height: 30px;
-}
-#ss-form > div > input {
-  height: 22px;
-  width: 240px;
-}
-#ss-form > div > select {
-  height: 27px;
-  width: 150px;
-}
-#ss-form {
-  margin-bottom: 15px;
-}
 
 .mdl-navigation {
   padding-top: 0px !important;
