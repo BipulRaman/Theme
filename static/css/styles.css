@@ -236,6 +236,8 @@ p {
 }
 .socialicon > svg{
   fill: #757575;
+  height: 24px;
+  width: 24px;
 }
 #advsrch {
   float: right;
