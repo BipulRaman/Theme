@@ -296,7 +296,7 @@ h6 {
 }
 
 .mdl-layout--fixed-drawer > .mdl-layout__header .mdl-layout__header-row{
-  padding-left: 24px;
+  padding-left: 55px;
 }
 .mdl-layout__header-row .mdl-navigation__link {
   line-height: 50px;
@@ -314,6 +314,9 @@ h6 {
     > .mdl-layout__header {
     width: 100%;
     margin-left: 0px;
+  }
+  .mdl-layout--fixed-drawer > .mdl-layout__header .mdl-layout__header-row{
+    padding-left: 24px;
   }
 }
 
