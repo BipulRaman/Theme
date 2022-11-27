@@ -220,9 +220,6 @@ footer {
   height: 62px;
 }
 
-p {
-  text-align: justify;
-}
 .socialicon {
   width: 32px;
   height: 32px;
@@ -265,34 +262,39 @@ p {
 /* END of custom CSS */
 
 h1 {
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 500;
+}
+h2 {
+  font-size: 23px;
+  line-height: 23px;
+  font-weight: 500;
+}
+h3 {
+  font-size: 22px;
+  line-height: 22px;
+  font-weight: 500;
+}
+h4 {
+  font-size:21px;
+  line-height: 21px;
+  font-weight: 500;
+}
+h5 {
   font-size: 20px;
   line-height: 20px;
   font-weight: 500;
 }
-h2 {
+h6 {
   font-size: 18px;
   line-height: 18px;
   font-weight: 500;
 }
-h3 {
+
+p {
+  text-align: justify;
   font-size: 16px;
-  line-height: 16px;
-  font-weight: 500;
-}
-h4 {
-  font-size: 14px;
-  line-height: 14px;
-  font-weight: 500;
-}
-h5 {
-  font-size: 12px;
-  line-height: 12px;
-  font-weight: 500;
-}
-h6 {
-  font-size: 10px;
-  line-height: 10px;
-  font-weight: 500;
 }
 
 .mdl-layout--fixed-drawer > .mdl-layout__header .mdl-layout__header-row{
