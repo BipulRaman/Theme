@@ -52,7 +52,6 @@ body {
   -ms-flex-pack: end;
   justify-content: flex-end;
   padding: 16px;
-  height: 130px !important;
   padding-bottom: 7px !important;
   text-align: center;
 }
@@ -297,11 +296,14 @@ h6 {
   font-weight: 500;
 }
 
+.mdl-layout--fixed-drawer > .mdl-layout__header .mdl-layout__header-row{
+  padding-left: 24px;
+}
 .mdl-layout__header-row .mdl-navigation__link {
   line-height: 50px;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1025px) {
   .mdl-layout__drawer-button {
     display: none;
   }
@@ -335,4 +337,13 @@ h6 {
 hr {
   width: 85%;
   align-self: center;
+}
+.logo{
+  height: 44px;
+  padding-top: 1px;
+  padding-right: 10px;
+}
+#pgTitle{
+  font-size: 24px;
+  letter-spacing: 0em;
 }
