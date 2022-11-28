@@ -2,7 +2,7 @@
 title: Privacy
 ---
 
-# Privacy Policy of JNV Sitamarhi Alumni Associstion
+# Privacy Policy
 
 ## Information Collection and Use
 
