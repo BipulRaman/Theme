@@ -350,7 +350,7 @@ h6 {
   letter-spacing: 0.00938em;
 }
 
-p {
+p, li, ul {
   text-align: justify;
   font-size: 16px;
   letter-spacing: 0.00938em;
