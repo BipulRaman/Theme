@@ -304,13 +304,18 @@ p {
   line-height: 50px;
 }
 
+.mdl-layout__drawer {
+  margin-top: 0px;
+  height: calc(100vh);
+}
+
 @media screen and (min-width: 1025px) {
   .mdl-layout__drawer-button {
     display: none;
   }
   .mdl-layout__drawer {
     margin-top: 64px;
-    height: calc(100% - 64px);
+    height: calc(100vh - 64px);
   }
   .mdl-layout--fixed-drawer.is-upgraded:not(.is-small-screen)
     > .mdl-layout__header {
