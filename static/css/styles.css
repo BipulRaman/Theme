@@ -350,7 +350,9 @@ h6 {
   letter-spacing: 0.00938em;
 }
 
-p, li, ul {
+p,
+li,
+ul {
   text-align: justify;
   font-size: 16px;
   letter-spacing: 0.00938em;
@@ -442,6 +444,7 @@ hr {
   align-self: center;
   padding-left: 15%;
 }
+
 .mdl-menu li a {
   color: #757575;
   text-decoration: none;
