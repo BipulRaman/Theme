@@ -1,6 +1,7 @@
 html,
 body {
   font-family: "Roboto", "Helvetica", sans-serif;
+  padding: 0;
 }
 
 .demo-avatar {
